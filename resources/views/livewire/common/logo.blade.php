@@ -6,5 +6,5 @@
 <path d="M15.5 11V13" stroke="#FF9E02" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M20.5 12H22.5" stroke="#FF9E02" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
-<strong class="text-lg">Recall</strong>
+<strong class="text-lg">Notes</strong>
 </div>
